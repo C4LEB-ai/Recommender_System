@@ -3,15 +3,10 @@ Movie Recommendation system
 ## Data Set
 The data set used for this notebook has 4809 rows × 7 columns and are collected from the IMDB movies database.
 
-- movieId
-- userId
-- rating
+- movieId - userId - rating
 In addition a data set of the movies includes the movie name and genres.
 - 
-
-- movieId
-- title
-- genres
+- movieId - title - genres
 The dataset can be found here in my repository
 - 
 Approaches Used :
