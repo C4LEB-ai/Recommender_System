@@ -1,7 +1,7 @@
 # Movies Recommender_System
 Movie Recommendation system
 ## Data Set
-The data set used for this notebook is the 1M ratings data set from MovieLens. This contains 1M ratings of movies from 7120 movies and 14,025 Users. This data set includes:
+The data set used for this notebook has 4809 rows × 7 columns and are collected from the IMDB movies database.
 
 - movieId
 - userId
@@ -12,9 +12,8 @@ In addition a data set of the movies includes the movie name and genres.
 - movieId
 - title
 - genres
-The dataset can be found here : https://github.com/Gurupradeep/Movie-Recommendation-System/tree/master/Dataset
+The dataset can be found here in my repository
 - 
-
 Approaches Used :
 Non Personalised Recommendations
 This type of recommendations are simple but very useful. Because they solve the cold start problem for users. That is without knowing anything about the user, we can do some recommendations to the user. After getting some reviews from the user or getting some additional information about the user, we can switch some of the more advanced model which are described below.
